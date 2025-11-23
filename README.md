@@ -1,6 +1,6 @@
 <!-- Begin README -->
 
-[![App Logo](docs/images/banner_large.png)](https://scottgriv.github.io/Palm-Tree/)
+[![App Logo](docs/images/banner_large.png)](https://night-owl-labs.github.io/Palm-Tree/)
 
 <p align="center">
     <a href="https://www.php.net/ChangeLog-8.php#8.1.6"><img src="https://img.shields.io/badge/PHP-8.1.6-777BB4?style=for-the-badge&logo=php" alt="PHP Badge" /></a>
@@ -29,7 +29,7 @@
  - Includes pre-built integrations with other SaaS systems such as [HubSpot](hubspot.com).
  - Directly open a Review window on your Google Business page with a click of a button within the email.
  - Perfect for small businesses, entrepreneurs, and anyone looking to keep track of their customers and send out marketing emails.
- - Visit a demo of the application [here](https://scottgriv.github.io/Palm-Tree/).
+ - Visit a demo of the application [here](https://night-owl-labs.github.io/Palm-Tree/).
 
  > [!NOTE]
  > The demo page only includes some basic functionality of the application.
