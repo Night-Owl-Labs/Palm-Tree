@@ -30,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Updated Palm Tree designs.
-- Updated README and repo structure to conform to the [Personal Repository Guidelines (PRG)](https://github.com/scottgriv/Palm-Tree) system.
+- Updated README and repo structure to conform to the [Personal Repository Guidelines (PRG)](https://github.com/Night-Owl-Labs/Palm-Tree) system.
 
 ### Removed
 
@@ -72,12 +72,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial Release of Palm Tree.
 
-[2.0.0]: https://github.com/scottgriv/Palm-Tree/compare/v1.3.0...2.0.0
-[1.3.0]: https://github.com/scottgriv/Palm-Tree/compare/v1.2.0...v1.3.0
-[1.2.0]: https://github.com/scottgriv/Palm-Tree/compare/v1.1.4...v1.2.0
-[1.1.4]: https://github.com/scottgriv/Palm-Tree/compare/v1.1.3...v1.1.4
-[1.1.3]: https://github.com/scottgriv/Palm-Tree/compare/v1.1.2...v1.1.3
-[1.1.2]: https://github.com/scottgriv/Palm-Tree/compare/v1.1.1...v1.1.2
-[1.1.1]: https://github.com/scottgriv/Palm-Tree/compare/v1.0.1...v1.1.1
-[1.0.1]: https://github.com/scottgriv/Palm-Tree/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/scottgriv/Palm-Tree/releases/tag/v1.0.0
+[2.0.0]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.3.0...2.0.0
+[1.3.0]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.2.0...v1.3.0
+[1.2.0]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.1.4...v1.2.0
+[1.1.4]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.1.3...v1.1.4
+[1.1.3]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.1.2...v1.1.3
+[1.1.2]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.1.1...v1.1.2
+[1.1.1]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.0.1...v1.1.1
+[1.0.1]: https://github.com/Night-Owl-Labs/Palm-Tree/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/Night-Owl-Labs/Palm-Tree/releases/tag/v1.0.0

@@ -11,11 +11,11 @@
     <a href="https://docs.docker.com/engine/release-notes/20.10/#201021"><img src="https://img.shields.io/badge/Docker-20.10.21-2496ED?style=for-the-badge&logo=docker" alt="Docker Badge" /></a>
     <a href="https://www.apachefriends.org/blog/new_xampp_20220516.html"><img src="https://img.shields.io/badge/XAMPP-8.1.6-FB7A24?style=for-the-badge&logo=xampp" alt="XAMPP Badge" /></a>
     <br>
-    <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
-    <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
-    <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FFDD00?style=for-the-badge&logo=buymeacoffee&color=FFDD00" alt="BuyMeACoffee Badge" /></a>
+    <a href="https://github.com/Night-Owl-Labs"><img src="https://img.shields.io/badge/github-follow_us-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
+    <a href="https://x.com/Night_Owl_Labs"><img src="https://img.shields.io/badge/email-follow_us-white?style=for-the-badge&logo=x" alt="X Badge" /></a>
+    <a href="mailto:support@nightowllabs.io"><img src="https://img.shields.io/badge/gmail-contact_us-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <br>
-    <a href="https://github.com/scottgriv/Palm-Tree/actions/workflows/pages/pages-build-deployment" target="_blank"><img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/scottgriv/Palm-Tree/pages%2Fpages-build-deployment?style=for-the-badge&logo=github&label=GitHub%20Pages"></a>
+    <a href="https://github.com/Night-Owl-Labs/Palm-Tree/actions/workflows/pages/pages-build-deployment" target="_blank"><img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/Night-Owl-Labs/Palm-Tree/pages%2Fpages-build-deployment?style=for-the-badge&logo=github&label=GitHub%20Pages"></a>
     <a href="https://prgportfolio.com"><img src="https://img.shields.io/badge/PRG-Gold Project-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkQ3MDAiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="Gold" /></a>
 </p>
 
@@ -85,13 +85,13 @@ I created **Palm Tree** to help small businesses and entrepreneurs keep track of
 1. Download **Palm Tree** directly using one of the methods below:
     - Download with **Git**:
     ```bash
-        git clone https://github.com/scottgriv/palm-tree
+        git clone https://github.com/Night-Owl-Labs/Palm-Tree
     ```
     - Download with **Homebrew**:
     ```bash
-        brew tap scottgriv/palm-tree https://github.com/scottgriv/Palm-Tree
+        brew tap Night-Owl-Labs/Palm-Tree https://github.com/Night-Owl-Labs/Palm-Tree
     ```
-    - Download the **Zip File** [Here](https://github.com/scottgriv/Palm-Tree/archive/refs/heads/main.zip).
+    - Download the **Zip File** [Here](https://github.com/Night-Owl-Labs/Palm-Tree/archive/refs/heads/main.zip).
 
 2. Host the application using your web server and databases. See the **XAMPP** instructions below on how to do this.
 
@@ -363,7 +363,7 @@ I'm looking forward to seeing how this project evolves over time and how it can 
 
 ## Project
 
-Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/4) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
+Please reference the [GitHub Project](https://github.com/users/Night-Owl-Labs/projects/4) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
 - Issues and Enhancements will also be tracked there as well.
 
 ## Contributing
@@ -403,15 +403,15 @@ This project is released under the terms of the **GNU General Public License, ve
 
 ## Credits
 
-**Author:** [Scott Grivner](https://github.com/scottgriv) <br>
-**Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
-**Website:** [linktr.ee/scottgriv](https://www.linktr.ee/scottgriv) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/Palm-Tree) <br>
+**Author:** [Night Owl Labs, LLC.](https://github.com/Night-Owl-Labs) <br>
+**Email:** [support@nightowllabs.io](mailto:support@nightowllabs.io) <br>
+**Website:** [nightowllabs.io](https://www.nightowllabs.io) <br>
+**Reference:** [Main Branch](https://github.com/Night-Owl-Labs/Software-ilities) <br>
 
 ---------------
 
 <div align="center">
-    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank">
+    <a href="https://github.com/Night-Owl-Labs/Palm-Tree" target="_blank">
         <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
     </a>
 </div>

@@ -56,7 +56,7 @@ See [`contributing.md`][contributing] on how to contribute.
 
 [xy]: https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378
 
-[chat]: https://github.com/scottgriv/Palm-Tree/discussions
+[chat]: https://github.com/Night-Owl-Labs/Palm-Tree/discussions
 
 [cs]: https://codesandbox.io
 

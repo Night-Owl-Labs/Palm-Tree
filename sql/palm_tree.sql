@@ -39,7 +39,7 @@ CREATE TABLE `about` (
 
 LOCK TABLES `about` WRITE;
 /*!40000 ALTER TABLE `about` DISABLE KEYS */;
-INSERT INTO `about` VALUES (1,'Scott Grivner','scott.grivner@gmail.com','https://www.linktr.ee/scottgriv');
+INSERT INTO `about` VALUES (1,'Night Owl Labs','support@nightowllabs.io','https://www.linktr.ee/nightowllabs');
 /*!40000 ALTER TABLE `about` ENABLE KEYS */;
 UNLOCK TABLES;
 

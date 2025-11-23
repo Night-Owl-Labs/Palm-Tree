@@ -19,7 +19,7 @@
     <meta property="og:type" content="website">
     <!-- X info -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:creator" content="@scottgrivner">
+    <meta name="twitter:creator" content="@Night_Owl_Labs">
     <meta name="twitter:title" content="Palm Tree">
     <meta name="twitter:description" content="A web based CRM application with Google Business review email request capabilities. Send marketing emails out to your customers, including emails requesting Google Business reviews. Directly open a review window on your Google Business page with a click of a button within the email.">
     <meta name="twitter:image" content="/img/banner_social.png">
